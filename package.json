@@ -1,0 +1,22 @@
+{
+  "name": "Grunt-CopyCWDTest",
+  "version": "1.0.7",
+  "description": "Grunt Copy CWD test example.",
+  "license": "mit",
+  "author": {
+    "name": "Serhio Magpie",
+    "email": "serdidg@gmail.com",
+    "url": "http://screensider.com"
+  },
+  "repository": "SerDIDG/Grunt-CopyCWDTest",
+  "dependencies": {
+    "grunt-cli": "^0.1.13"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-copy": "^0.8.2",
+    "load-grunt-tasks": "~3.3.0",
+    "time-grunt": "^1.2.2"
+  }
+}
